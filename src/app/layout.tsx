@@ -8,8 +8,8 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const outfit = Outfit({ subsets: ["latin"], variable: "--font-outfit" });
 
 export const metadata: Metadata = {
-  title: "Marketing Psychology Portfolio",
-  description: "Premium Digital Marketing & Growth Services",
+  title: "Sahil Pasricha | Senior Solutions Architect",
+  description: "Building Intelligent Systems for Predictable Growth. AI, Automation, and Scalable Infrastructure.",
 };
 
 export default function RootLayout({
